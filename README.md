@@ -43,7 +43,7 @@ The program uses a **menu-driven interface** to make navigation simple and inter
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/online-movie-ticket-booking.git
+   git clone https://github.com/AzeemHusain123/online-movie-ticket-booking.git
    cd online-movie-ticket-booking
    g++ PF_Project.cpp -o movie_booking
    ./movie_booking
